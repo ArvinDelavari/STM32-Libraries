@@ -50,7 +50,6 @@ I2C4   |PD12  PD13   |PF1   PF0    |PF14  PF15   |PH11  PH12
  - STM32Fxxx HAL
  - defines.h
  - attributes.h
- - TM GPIO
 \endverbatim
  */
 #include "stm32fxxx_hal.h"
