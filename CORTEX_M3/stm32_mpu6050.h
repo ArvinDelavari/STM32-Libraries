@@ -14,7 +14,6 @@ extern "C" {
 
 /**
  * @defgroup MPU6050
- * @brief    MPU6050 library for STM32Fxxx - http://stm32f4-discovery.com/2015/10/hal-library-30-mpu6050-for-stm32fxxx
  * @{
  *
  * \par Features

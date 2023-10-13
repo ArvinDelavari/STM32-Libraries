@@ -13,7 +13,6 @@ extern "C" {
 
 /**
  * @defgroup HD44780
- * @brief    HD44780 LCD driver library for STM32Fxxx - http://stm32f4-discovery.com/2015/07/hal-library-15-hd44780-for-stm32fxxx/
  * @{
  *
  *	It also supports all HD44780 compatible LCD drivers.

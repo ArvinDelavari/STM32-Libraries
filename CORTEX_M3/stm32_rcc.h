@@ -6,38 +6,6 @@
 extern "C" {
 #endif
 	
-/**
- * @addtogroup STM32Fxxx_HAL_Libraries
- * @{
- */
-
-/**
- * @defgroup RCC
- * @brief    RCC Library for STM32Fxxx - http://stm32f4-discovery.com/2015/07/hal-library-01-rcc-for-stm32fxxx/
- * @{
- *
- * RCC library provides initialization of clock at the beginning. Function @ref RCC_InitSystem should be called at beginning of @ref main function to initialize system.
- *
- * @note  In case of STM32F7xx is used, this library also enables CACHE for Instructions and Data.
- *
- * \par Changelog
- *
-\verbatim
- Version 1.0
-  - Initial release
-
- Version 1.1
-  - October 10, 2015
-  - Added support for STM32F469 devices
-\endverbatim
- *
- * \par Dependencies
- *
-\verbatim
- - STM32Fxxx HAL
- - defines.h
-\endverbatim
- */
 #include "stm32fxxx_hal.h"
 #include "defines.h"
 

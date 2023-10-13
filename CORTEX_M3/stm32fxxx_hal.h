@@ -8,36 +8,10 @@ extern "C" {
 
 /**
  * @addtogroup STM32Fxxx_HAL_Libraries
- * @{
- *
- *
- * \par Beginning for libraries
- *
- * For start using these libraries, check @ref HAL.
  */
 
 /**
- * @defgroup HAL
- * @brief    Main description and usage of TM HAL based libraries
- * @{
- *
- * \par About libraries
- *
- * These libraries are provided by Tilen Majerle and are developed under GNU GPL v3 licence. For more information about that, please check website of license.
- *
- * To use it, I suppose you know C language and at least basics of STM32 devices (especially STM32F0, STM32F4 or STM32F7 series).
- *
- * \par Download libraries
- *
- * Download for all libraries is on this link: http://stm32f4-discovery.com/?wpdmdl=2618
- *
- * \par Examples
- *
- * Each library has Keil uVision based example on my Github account, https://github.com/MaJerle/stm32fxxx_hal_libraries.
- *
- * If you are beginner, then I suggest you to download entire repository from Github, install basic demo version of Keil uVision and open examples directly from download.
- * Almost all examples works with demo version of Keil uVision.
- *
+
  * \par Libraries structure
  *
  * Each library is structured in the same way where you have these parts:

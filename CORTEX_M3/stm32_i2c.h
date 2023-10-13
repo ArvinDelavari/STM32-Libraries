@@ -14,7 +14,6 @@ extern "C" {
 
 /**
  * @defgroup I2C
- * @brief    I2C library for STM32Fxxx - http://stm32f4-discovery.com/2015/07/hal-library-16-i2c-for-stm32fxxx-devices/
  * @{
  *
  *	\par Pinout

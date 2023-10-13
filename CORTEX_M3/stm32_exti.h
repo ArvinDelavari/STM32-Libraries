@@ -13,7 +13,6 @@ extern "C" {
 
 /**
  * @defgroup EXTI
- * @brief    External interrupts library for STM32Fxxx devices - http://stm32f4-discovery.com/2015/07/hal-library-4-exti-for-stm32fxxx/
  * @{
  *
  * This library allows you to easy enable external interrupt on specific pin.
