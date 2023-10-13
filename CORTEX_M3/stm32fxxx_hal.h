@@ -1,30 +1,5 @@
-/**
- * @author  Tilen Majerle
- * @email   tilen@majerle.eu
- * @website http://stm32f4-discovery.com
- * @version v1.0
- * @license MIT
-@verbatim
-   ----------------------------------------------------------------------
-    Copyright (C) Tilen Majerle, 2015
-    
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    any later version.
-     
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-    
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
-   ----------------------------------------------------------------------
-@endverbatim
- */
-#ifndef TM_STM32Fxxx_H
-#define TM_STM32Fxxx_H
+#ifndef _STM32Fxxx_H
+#define _STM32Fxxx_H
 
 /* C++ detection */
 #ifdef __cplusplus
@@ -32,17 +7,17 @@ extern "C" {
 #endif
 
 /**
- * @addtogroup TM_STM32Fxxx_HAL_Libraries
+ * @addtogroup STM32Fxxx_HAL_Libraries
  * @{
  *
  *
  * \par Beginning for libraries
  *
- * For start using these libraries, check @ref TM_HAL.
+ * For start using these libraries, check @ref HAL.
  */
 
 /**
- * @defgroup TM_HAL
+ * @defgroup HAL
  * @brief    Main description and usage of TM HAL based libraries
  * @{
  *
@@ -132,7 +107,7 @@ extern "C" {
  */
 
 /**
- * @defgroup TM_HAL_Family
+ * @defgroup HAL_Family
  * @brief    In stm32fxxx_hal.h file you have to specify STM32 family used for HAL drivers.
  * @{
  */
@@ -202,8 +177,8 @@ extern "C" {
 #endif*/
 /* Init main libraries used everywhere */
 #include "defines.h"
-#include "tm_stm32_rcc.h"
-#include "tm_stm32_gpio.h"
+#include "stm32_rcc.h"
+#include "stm32_gpio.h"
 
 /**
  * @}
