@@ -3,9 +3,8 @@ STM32 Libraries
 
 <div align="justify">
 
-This repository contains open-source libraries for STM32 ARM Cortex M microcontrollers (F0, F1 & F4 series). These libraries offer a range of functions and features to streamline development. Contributions are welcome, and the libraries are released under the MIT License.
+This repository contains open-source libraries for STM32 ARM Cortex M microcontrollers. These libraries offer a range of functions and features to streamline development. Contributions are welcome, and the libraries are released under the MIT License.
 
-- ARM Cortex M0 (STM32F0)
 - ARM Cortex M3 (STM32F1)
 - ARM Cortex M4 (STM32F4)
 
