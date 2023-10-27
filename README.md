@@ -1,5 +1,5 @@
-STM32 Libraries
-=================
+STM32 Embedded C Libraries
+==========================
 
 <div align="justify">
 
@@ -22,5 +22,9 @@ To get started:
 
 If you have any questions, issues, or suggestions, please feel free to open an issue or reach out to the repository maintainers.
 </div>
+
+- Arvin Delavari - arvin7807@gmail.com
+- Iran University of Science and Technology, Electronics Research Center 2023
+- Digital Design Research Lab, Super-Computing and Networking (SCaN) Research Lab
 
 
